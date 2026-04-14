@@ -1,2 +1,5 @@
-Pillow>=10.0.0
+flask
+pandas
 gunicorn
+Pillow>=10.0.0
+requests
