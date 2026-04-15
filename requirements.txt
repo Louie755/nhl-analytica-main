@@ -1,5 +1,4 @@
 flask
-pandas
 gunicorn
-Pillow>=10.0.0
+pandas
 requests
